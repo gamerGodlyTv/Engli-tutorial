@@ -1,0 +1,7 @@
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\bin\Debug\CopilTrist.exe.config
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\bin\Debug\CopilTrist.exe
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\bin\Debug\CopilTrist.pdb
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\obj\Debug\CopilTrist.csprojAssemblyReference.cache
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\obj\Debug\CopilTrist.csproj.CoreCompileInputs.cache
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\obj\Debug\CopilTrist.exe
+D:\Aplicatii,Bloguri,Proiecte\CopilTrist\obj\Debug\CopilTrist.pdb
